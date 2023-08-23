@@ -8,8 +8,8 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/landing-page-with-news-css-properties-zhxqnkNL4r)
+- Live Site URL: [Live Site](https://frontend-mentor-chalenge-fylo.netlify.app/)
 
 ### Built with
 
