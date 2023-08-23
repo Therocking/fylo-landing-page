@@ -404,10 +404,10 @@
         justify-content: center;
         margin-bottom: 45px;
     }
-
-    .f-logo path {
+    
+    svg path {
         fill: white;
-    }
+    }    
 
     #footer .flex {
         flex-direction: column;
