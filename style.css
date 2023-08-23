@@ -405,6 +405,10 @@
         margin-bottom: 45px;
     }
 
+    .f-logo path {
+        fill: white;
+    }
+
     #footer .flex {
         flex-direction: column;
         align-items: center;
